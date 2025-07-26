@@ -19,7 +19,7 @@ Key Highlights:
 ✔️ **Movie Recommendation** – Suggests movies matching the user’s mood  
 ✔️ **Deep Learning Models** – Trained with emotion-labeled datasets  
 ✔️ **Interactive UI** – Simple and responsive design for easy usage  
-✔️ **Scalable Design** – Can integrate with streaming platforms  
+✔️ **Scalable Design** – Can integrate with streaming platforms.  
 
 ---
 
