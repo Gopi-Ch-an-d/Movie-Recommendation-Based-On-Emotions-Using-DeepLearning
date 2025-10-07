@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation Based on Emotions
 
-A **Deep Learning-based recommendation system** that suggests movies according to the user's emotional state. The system uses **Natural Language Processing (NLP)**, **Sentiment Analysis**, and **Deep Learning models** to predict emotions and provide personalized movie recommendations..
+A **Deep Learning-based recommendation system** that suggests movies according to the user's emotional state. The system uses **Natural Language Processing (NLP)**, **Sentiment Analysis**, and **Deep Learning models** to predict emotions and provide personalized movie recommendations.
 
 ---
 
